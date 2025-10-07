@@ -31,4 +31,11 @@
     3) assistent-role:- it is the genric-llm model that we are using.
 
 
+### to get the analysis of the 2 pdfs usingn the gemini model:-
+<img width="610" height="175" alt="image" src="https://github.com/user-attachments/assets/f877bb83-c7be-44a7-9bef-67abde659c55" />
+<img width="1111" height="290" alt="{D0E078F6-A7AA-4138-96DD-E19FE9E4D95F}" src="https://github.com/user-attachments/assets/628399cf-a697-493a-a6ff-535afcb75cde" />
+<img width="690" height="260" alt="{1C4E97A2-40B7-4D59-B6CA-BCA350E26B1E}" src="https://github.com/user-attachments/assets/fc3f0a42-c449-4798-a49d-86f3946404c7" />
+
+
+
 
