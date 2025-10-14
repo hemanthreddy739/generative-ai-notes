@@ -36,6 +36,22 @@
 <img width="1111" height="290" alt="{D0E078F6-A7AA-4138-96DD-E19FE9E4D95F}" src="https://github.com/user-attachments/assets/628399cf-a697-493a-a6ff-535afcb75cde" />
 <img width="690" height="260" alt="{1C4E97A2-40B7-4D59-B6CA-BCA350E26B1E}" src="https://github.com/user-attachments/assets/fc3f0a42-c449-4798-a49d-86f3946404c7" />
 
+### About the "RNN", "LSTM", "SELF ATTENTION Mechanisam": -
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4fb5f660-7651-4f09-b318-e777dba71ef4" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1cdc648e-f4d3-4d4b-bbbe-b01e409b59e4" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ed4ddfbe-bf86-4194-9e5b-c5cc988692b1" />
+
+## about the key-terms: -
+============================
+The difference between the context window and the max_output_tokens parameter in GPT models lies in their respective roles in managing the input and output of the model:
+Context Window (or Context Length):
+This refers to the total number of tokens (input tokens + output tokens) that the model can process and consider at any given time to generate a coherent response.
+It represents the model's "working memory," determining how much previous text, including the current prompt and any preceding conversation, it can recall and use to inform its next prediction.
+A larger context window allows the model to maintain a better understanding of the conversation's history and generate more contextually relevant and nuanced responses. If the combined length of the input and the generated output exceeds the context window, the model will not be able to process the entire input or generate the full response.
+max_output_tokens Parameter:
+This parameter specifically controls the maximum number of tokens that the model is allowed to generate as its output in response to a prompt.
+It sets an explicit limit on the length of the AI-generated response, regardless of the available context window.
+This parameter is crucial for managing response length, controlling costs (as token usage affects pricing), and preventing overly verbose or irrelevant outputs.
 
 
 
