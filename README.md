@@ -41,8 +41,12 @@
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1cdc648e-f4d3-4d4b-bbbe-b01e409b59e4" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ed4ddfbe-bf86-4194-9e5b-c5cc988692b1" />
 
+
+
+
 ## about the key-terms: -
 ============================
+
 The difference between the context window and the max_output_tokens parameter in GPT models lies in their respective roles in managing the input and output of the model:
 Context Window (or Context Length):
 This refers to the total number of tokens (input tokens + output tokens) that the model can process and consider at any given time to generate a coherent response.
@@ -52,6 +56,30 @@ max_output_tokens Parameter:
 This parameter specifically controls the maximum number of tokens that the model is allowed to generate as its output in response to a prompt.
 It sets an explicit limit on the length of the AI-generated response, regardless of the available context window.
 This parameter is crucial for managing response length, controlling costs (as token usage affects pricing), and preventing overly verbose or irrelevant outputs.
+
+============================
+Mid-Journey Prompt : -
+
+<img width="634" height="173" alt="{3B9F2B59-5D92-46F9-8F58-01857E2D1688}" src="https://github.com/user-attachments/assets/f5ab155d-ef8a-430a-8dfc-dd8cc223c08a" />
+
+the above is the example of an mid-journey prompt, and we can generate many prompt-instacnes with the above 'mid-journey' prompt as taken as "blue-print".
+example: -
+
+=================================================================================================================
+
+Lang Chain: -
+
+<img width="1280" height="516" alt="{F9956F24-6ED5-4D3C-A83E-761E4FA21152}" src="https://github.com/user-attachments/assets/4311b5f5-ad13-41fc-b853-9ab5e61cfa31" />
+
+--> langchain is the tool with that we can able to connect the mutiple data-sources and can integrate with the "LLM" model to implement our use-case.
+
+<img width="743" height="243" alt="image" src="https://github.com/user-attachments/assets/4062a7d4-8a50-4798-9673-ef18083f7740" />
+
+--> through the "lang-chain" we can able to achieve "RE-ACT" : - 
+        it meas as per the given query, accordingly fetches the information, and as per your desired-respone they "act" accordingly.
+
+--> 
+
 
 
 
