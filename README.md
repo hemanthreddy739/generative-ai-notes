@@ -78,7 +78,13 @@ Lang Chain: -
 --> through the "lang-chain" we can able to achieve "RE-ACT" : - 
         it meas as per the given query, accordingly fetches the information, and as per your desired-respone they "act" accordingly.
 
+--> PromptTemplates and creatring chains: -
+<img width="911" height="471" alt="image" src="https://github.com/user-attachments/assets/68a35d7a-85c4-4d7b-8962-d5665c835535" />
+
 --> 
+
+
+
 
 
 
